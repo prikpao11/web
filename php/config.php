@@ -1,5 +1,5 @@
 <?php 
  
- $con = mysqli_connect("localhost","root","1234","phoneshop") or die("Couldn't connect");
+ $con = mysqli_connect("localhost","root","qwe159815","phoneshop") or die("Couldn't connect");
 
 ?>
